@@ -6,3 +6,4 @@ fab_date:
 status: released
 release: yes
 tags: [eagle, SPCoast]
+image_path: IOB-Signal-Graphic.png
