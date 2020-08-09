@@ -663,53 +663,53 @@ design rules under a new name.
 </pass>
 </autorouter>
 <elements>
-<element name="C1X11" library="SPCoast" package="0805-CAP" value="" x="54.61" y="17.526" rot="R270"/>
+<element name="C1X11" library="SPCoast" package="0805-CAP" value="0.1uF" x="54.61" y="17.526" rot="R270"/>
 <element name="CON1X11" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="29.718" y="17.399" rot="R270"/>
 <element name="FID1X11" library="SPCoast" package="FIDUCIAL_1MM" value="" x="41.275" y="10.287"/>
 <element name="FID3X11" library="SPCoast" package="FIDUCIAL_1MM" value="" x="76.835" y="27.305"/>
-<element name="IC1X11" library="SPCoast" package="SO16" value="" x="60.833" y="17.399"/>
-<element name="R4X11" library="SPCoast" package="0805-RES" value="" x="50.8" y="15.494"/>
-<element name="R6X11" library="SPCoast" package="0805-RES" value="" x="46.99" y="14.224"/>
-<element name="R7X11" library="SPCoast" package="0805-RES" value="" x="46.99" y="16.764"/>
-<element name="R8X11" library="SPCoast" package="0805-RES" value="" x="50.8" y="20.574"/>
-<element name="R9X11" library="SPCoast" package="0805-RES" value="" x="46.99" y="19.304"/>
-<element name="R10X11" library="SPCoast" package="0805-RES" value="" x="46.99" y="21.844"/>
+<element name="IC1X11" library="SPCoast" package="SO16" value="74HS139A" x="60.833" y="17.399"/>
+<element name="R4X11" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="15.494"/>
+<element name="R6X11" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="14.224"/>
+<element name="R7X11" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="16.764"/>
+<element name="R8X11" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="20.574"/>
+<element name="R9X11" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="19.304"/>
+<element name="R10X11" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="21.844"/>
 <element name="U$1X11" library="SPCoast" package="IO4-IOB" value="" x="25.4" y="8.89"/>
-<element name="C1X12" library="SPCoast" package="0805-CAP" value="" x="54.61" y="37.846" rot="R270"/>
+<element name="C1X12" library="SPCoast" package="0805-CAP" value="0.1uF" x="54.61" y="37.846" rot="R270"/>
 <element name="CON1X12" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="29.718" y="37.719" rot="R270"/>
 <element name="FID1X12" library="SPCoast" package="FIDUCIAL_1MM" value="" x="41.275" y="30.607"/>
 <element name="FID3X12" library="SPCoast" package="FIDUCIAL_1MM" value="" x="76.835" y="47.625"/>
-<element name="IC1X12" library="SPCoast" package="SO16" value="" x="60.833" y="37.719"/>
-<element name="R4X12" library="SPCoast" package="0805-RES" value="" x="50.8" y="35.814"/>
-<element name="R6X12" library="SPCoast" package="0805-RES" value="" x="46.99" y="34.544"/>
-<element name="R7X12" library="SPCoast" package="0805-RES" value="" x="46.99" y="37.084"/>
-<element name="R8X12" library="SPCoast" package="0805-RES" value="" x="50.8" y="40.894"/>
-<element name="R9X12" library="SPCoast" package="0805-RES" value="" x="46.99" y="39.624"/>
-<element name="R10X12" library="SPCoast" package="0805-RES" value="" x="46.99" y="42.164"/>
+<element name="IC1X12" library="SPCoast" package="SO16" value="74HS139A" x="60.833" y="37.719"/>
+<element name="R4X12" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="35.814"/>
+<element name="R6X12" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="34.544"/>
+<element name="R7X12" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="37.084"/>
+<element name="R8X12" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="40.894"/>
+<element name="R9X12" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="39.624"/>
+<element name="R10X12" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="42.164"/>
 <element name="U$1X12" library="SPCoast" package="IO4-IOB" value="" x="25.4" y="29.21"/>
-<element name="C1X13" library="SPCoast" package="0805-CAP" value="" x="54.61" y="58.166" rot="R270"/>
+<element name="C1X13" library="SPCoast" package="0805-CAP" value="0.1uF" x="54.61" y="58.166" rot="R270"/>
 <element name="CON1X13" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="29.718" y="58.039" rot="R270"/>
 <element name="FID1X13" library="SPCoast" package="FIDUCIAL_1MM" value="" x="41.275" y="50.927"/>
 <element name="FID3X13" library="SPCoast" package="FIDUCIAL_1MM" value="" x="76.835" y="67.945"/>
-<element name="IC1X13" library="SPCoast" package="SO16" value="" x="60.833" y="58.039"/>
-<element name="R4X13" library="SPCoast" package="0805-RES" value="" x="50.8" y="56.134"/>
-<element name="R6X13" library="SPCoast" package="0805-RES" value="" x="46.99" y="54.864"/>
-<element name="R7X13" library="SPCoast" package="0805-RES" value="" x="46.99" y="57.404"/>
-<element name="R8X13" library="SPCoast" package="0805-RES" value="" x="50.8" y="61.214"/>
-<element name="R9X13" library="SPCoast" package="0805-RES" value="" x="46.99" y="59.944"/>
-<element name="R10X13" library="SPCoast" package="0805-RES" value="" x="46.99" y="62.484"/>
+<element name="IC1X13" library="SPCoast" package="SO16" value="74HS139A" x="60.833" y="58.039"/>
+<element name="R4X13" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="56.134"/>
+<element name="R6X13" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="54.864"/>
+<element name="R7X13" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="57.404"/>
+<element name="R8X13" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="61.214"/>
+<element name="R9X13" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="59.944"/>
+<element name="R10X13" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="62.484"/>
 <element name="U$1X13" library="SPCoast" package="IO4-IOB" value="" x="25.4" y="49.53"/>
-<element name="C1X14" library="SPCoast" package="0805-CAP" value="" x="54.61" y="78.486" rot="R270"/>
+<element name="C1X14" library="SPCoast" package="0805-CAP" value="0.1uF" x="54.61" y="78.486" rot="R270"/>
 <element name="CON1X14" library="SPCoast" package="RJ45-NO-SHIELD" value="" x="29.718" y="78.359" rot="R270"/>
 <element name="FID1X14" library="SPCoast" package="FIDUCIAL_1MM" value="" x="41.275" y="71.247"/>
 <element name="FID3X14" library="SPCoast" package="FIDUCIAL_1MM" value="" x="76.835" y="88.265"/>
-<element name="IC1X14" library="SPCoast" package="SO16" value="" x="60.833" y="78.359"/>
-<element name="R4X14" library="SPCoast" package="0805-RES" value="" x="50.8" y="76.454"/>
-<element name="R6X14" library="SPCoast" package="0805-RES" value="" x="46.99" y="75.184"/>
-<element name="R7X14" library="SPCoast" package="0805-RES" value="" x="46.99" y="77.724"/>
-<element name="R8X14" library="SPCoast" package="0805-RES" value="" x="50.8" y="81.534"/>
-<element name="R9X14" library="SPCoast" package="0805-RES" value="" x="46.99" y="80.264"/>
-<element name="R10X14" library="SPCoast" package="0805-RES" value="" x="46.99" y="82.804"/>
+<element name="IC1X14" library="SPCoast" package="SO16" value="74HS139A" x="60.833" y="78.359"/>
+<element name="R4X14" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="76.454"/>
+<element name="R6X14" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="75.184"/>
+<element name="R7X14" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="77.724"/>
+<element name="R8X14" library="SPCoast" package="0805-RES" value="420R" x="50.8" y="81.534"/>
+<element name="R9X14" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="80.264"/>
+<element name="R10X14" library="SPCoast" package="0805-RES" value="1k0" x="46.99" y="82.804"/>
 <element name="U$1X14" library="SPCoast" package="IO4-IOB" value="" x="25.4" y="69.85"/>
 <element name="U$1X1" library="SPCoast" package="BOARD-DINRAIL-3.17IN-H4X-IOB" value="" x="0" y="0"/>
 </elements>
