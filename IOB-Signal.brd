@@ -91,10 +91,10 @@
 1 1 D</text>
 <text x="50.546" y="11.049" size="1.27" layer="21" rot="R90">AB</text>
 <text x="50.546" y="5.969" size="1.27" layer="21" rot="R90">CD</text>
-<text x="-5.08" y="2.54" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Soldermask
+<text x="-5.08" y="2.54" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Soldermask
 White Silkscreen</text>
 <text x="6.858" y="5.842" size="1.016" layer="21" rot="R90">2020-03</text>
-<text x="55.245" y="3.175" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Header</text>
+<text x="55.245" y="3.175" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Header</text>
 <text x="28.702" y="10.541" size="0.8128" layer="125" font="vector">C1</text>
 <text x="-3.302" y="16.129" size="1.016" layer="125" font="vector" rot="R270">CON1</text>
 <text x="38.354" y="0.889" size="1.27" layer="125" font="vector" ratio="10" rot="R90">IC1</text>

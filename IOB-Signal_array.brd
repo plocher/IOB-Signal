@@ -18,7 +18,7 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="19" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
@@ -177,10 +177,10 @@
 1 1 D</text>
 <text x="75.946" y="19.939" size="1.27" layer="21" rot="R90">AB</text>
 <text x="75.946" y="14.859" size="1.27" layer="21" rot="R90">CD</text>
-<text x="20.32" y="11.43" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Soldermask
+<text x="20.32" y="11.43" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Soldermask
 White Silkscreen</text>
 <text x="32.258" y="14.732" size="1.016" layer="21" rot="R90">2020-03</text>
-<text x="80.645" y="12.065" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Header</text>
+<text x="80.645" y="12.065" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Header</text>
 <text x="54.102" y="19.431" size="0.8128" layer="125" font="vector">C1</text>
 <text x="22.098" y="25.019" size="1.016" layer="125" font="vector" rot="R270">CON1</text>
 <text x="63.754" y="9.779" size="1.27" layer="125" font="vector" ratio="10" rot="R90">IC1</text>
@@ -211,10 +211,10 @@ White Silkscreen</text>
 1 1 D</text>
 <text x="75.946" y="40.259" size="1.27" layer="21" rot="R90">AB</text>
 <text x="75.946" y="35.179" size="1.27" layer="21" rot="R90">CD</text>
-<text x="20.32" y="31.75" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Soldermask
+<text x="20.32" y="31.75" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Soldermask
 White Silkscreen</text>
 <text x="32.258" y="35.052" size="1.016" layer="21" rot="R90">2020-03</text>
-<text x="80.645" y="32.385" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Header</text>
+<text x="80.645" y="32.385" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Header</text>
 <text x="54.102" y="39.751" size="0.8128" layer="125" font="vector">C1</text>
 <text x="22.098" y="45.339" size="1.016" layer="125" font="vector" rot="R270">CON1</text>
 <text x="63.754" y="30.099" size="1.27" layer="125" font="vector" ratio="10" rot="R90">IC1</text>
@@ -245,10 +245,10 @@ White Silkscreen</text>
 1 1 D</text>
 <text x="75.946" y="60.579" size="1.27" layer="21" rot="R90">AB</text>
 <text x="75.946" y="55.499" size="1.27" layer="21" rot="R90">CD</text>
-<text x="20.32" y="52.07" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Soldermask
+<text x="20.32" y="52.07" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Soldermask
 White Silkscreen</text>
 <text x="32.258" y="55.372" size="1.016" layer="21" rot="R90">2020-03</text>
-<text x="80.645" y="52.705" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Header</text>
+<text x="80.645" y="52.705" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Header</text>
 <text x="54.102" y="60.071" size="0.8128" layer="125" font="vector">C1</text>
 <text x="22.098" y="65.659" size="1.016" layer="125" font="vector" rot="R270">CON1</text>
 <text x="63.754" y="50.419" size="1.27" layer="125" font="vector" ratio="10" rot="R90">IC1</text>
@@ -259,10 +259,6 @@ White Silkscreen</text>
 <text x="46.228" y="60.7695" size="0.4064" layer="125" font="vector">R9</text>
 <text x="46.228" y="63.3095" size="0.4064" layer="125" font="vector">R10</text>
 <wire x1="22.86" y1="69.85" x2="83.82" y2="69.85" width="0" layer="46"/>
-<wire x1="25.4" y1="8.89" x2="78.74" y2="8.89" width="0.254" layer="20"/>
-<wire x1="78.74" y1="8.89" x2="78.74" y2="90.17" width="0.254" layer="20"/>
-<wire x1="78.74" y1="90.17" x2="25.4" y2="90.17" width="0.254" layer="20"/>
-<wire x1="25.4" y1="90.17" x2="25.4" y2="8.89" width="0.254" layer="20"/>
 <wire x1="78.74" y1="69.85" x2="78.74" y2="90.17" width="0" layer="101"/>
 <wire x1="78.74" y1="90.17" x2="25.4" y2="90.17" width="0" layer="101"/>
 <wire x1="25.4" y1="90.17" x2="25.4" y2="69.85" width="0" layer="101"/>
@@ -284,10 +280,10 @@ White Silkscreen</text>
 1 1 D</text>
 <text x="75.946" y="80.899" size="1.27" layer="21" rot="R90">AB</text>
 <text x="75.946" y="75.819" size="1.27" layer="21" rot="R90">CD</text>
-<text x="20.32" y="72.39" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Soldermask
+<text x="20.32" y="72.39" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Soldermask
 White Silkscreen</text>
 <text x="32.258" y="75.692" size="1.016" layer="21" rot="R90">2020-03</text>
-<text x="80.645" y="73.025" size="1.27" layer="48" font="vector" ratio="10" rot="R90">Blue Header</text>
+<text x="80.645" y="73.025" size="1.27" layer="21" font="vector" ratio="10" rot="R90">Blue Header</text>
 <text x="54.102" y="80.391" size="0.8128" layer="125" font="vector">C1</text>
 <text x="22.098" y="85.979" size="1.016" layer="125" font="vector" rot="R270">CON1</text>
 <text x="63.754" y="70.739" size="1.27" layer="125" font="vector" ratio="10" rot="R90">IC1</text>
